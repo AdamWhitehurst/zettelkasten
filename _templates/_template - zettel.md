@@ -1,15 +1,13 @@
 ---
-
 id: YYYYMMDDHHMM
-source: 
-tags: [  ]
-
+source:
+tags: []
 ---
 
 # Title
 
 ## Subsection
 
-## Links
+References
 
 ## References

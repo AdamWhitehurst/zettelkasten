@@ -12,4 +12,4 @@ The stuff describing a [[Zettel|Zettel]]. This includes a sumarry description pa
 
 Remember to keep Zettel content as atomic as possible and split Zettels whenever possible.
 
-## Links
+References

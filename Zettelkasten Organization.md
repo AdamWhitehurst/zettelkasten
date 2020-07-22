@@ -5,11 +5,8 @@ tags: [ #zettelkasten ]
 	
 ---
 
-
 # Zettelkasten Organization
-
 
 ## Notes
 
-
-## See Also
+## References
