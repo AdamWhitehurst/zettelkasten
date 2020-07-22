@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202007212110 Zettel Metadata.md",
+            "file": "_templates/_template - zettel.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202007212110 Zettel Metadata.md",
+            "file": "_templates/_template - zettel.md",
             "mode": "preview"
           }
         },
@@ -94,10 +94,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "202007212110 Zettel Metadata.md",
-    "202007220840 Requisite.md",
-    "202007220827 Fungible.md",
-    "202007220711 Daily Journal.md",
-    "_template - word.md"
+    "_templates/_template - zettel.md",
+    "202007212055 Zettel Structure.md",
+    "202007212021 Zettel.md",
+    "202007212051 Zettel Content.md",
+    "202007212110 Zettel Metadata.md"
   ]
 }
