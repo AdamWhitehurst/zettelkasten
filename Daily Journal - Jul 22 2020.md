@@ -19,8 +19,8 @@ I really like how the Notion + Obsidian coordination is coming along. There are 
 - There is no yesterday, today is the first day of a new chapter in my life
 
 ##### Word Connections
-[[202007220827 Fungible|Fungible]]
-[[202007220840 Requisite|Requisite]]
+[[Fungible|Fungible]]
+[[Requisite|Requisite]]
 
 ---
 ## Evening

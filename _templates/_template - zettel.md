@@ -1,6 +1,7 @@
 ---
 
 id: YYYYMMDDHHMM
+source: 
 tags: [  ]
 
 ---
@@ -9,4 +10,6 @@ tags: [  ]
 
 ## Subsection
 
-## See Also
+## Links
+
+## References

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_templates/_template - zettel.md",
+            "file": "Problem of Morality.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_templates/_template - zettel.md",
+            "file": "Problem of Morality.md",
             "mode": "preview"
           }
         },
@@ -94,10 +94,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_templates/_template - zettel.md",
-    "202007212055 Zettel Structure.md",
-    "202007212021 Zettel.md",
-    "202007212051 Zettel Content.md",
-    "202007212110 Zettel Metadata.md"
+    "Problem of Morality.md",
+    "Parsing Markdown Into Data.md",
+    "Zettel Metadata.md",
+    "Zettelkasten.md",
+    "Zettelkasten Organization.md"
   ]
 }
