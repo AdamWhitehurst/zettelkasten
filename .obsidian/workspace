@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "03040cd57f9a44d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "81e3778d1aad2454",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "202007212110 Zettel Metadata.md",
+            "mode": "source"
+          }
+        },
+        "group": "8b42344b49bf7bec"
+      },
+      {
+        "id": "592e1f707e3f3774",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "202007212110 Zettel Metadata.md",
+            "mode": "preview"
+          }
+        },
+        "group": "8b42344b49bf7bec"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd994ed437c2a780",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb3ffc4031b905c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8830158b04fd5ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "335d8e7d9254e36d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310
+  },
+  "right": {
+    "id": "9fd20ff388d56d3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bde15939d4188ace",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3b80b0b97c19fb4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "de68188de78aee25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "202007212110 Zettel Metadata.md",
+    "202007220840 Requisite.md",
+    "202007220827 Fungible.md",
+    "202007220711 Daily Journal.md",
+    "_template - word.md"
+  ]
+}
