@@ -19,3 +19,6 @@ Essential, necessary
 
 ### Trivia
 From [[Latin]] *quaerere*, "to ask" or "to seek." That word is ancestor to a number of other [[English]] words: [[acquire]], [[require]], [[inquiry]], [[question]], [[quest]], among others.
+
+## References
+https://www.merriam-webster.com/dictionary/requisite

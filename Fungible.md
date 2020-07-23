@@ -20,3 +20,6 @@ Being of duch nature or kind as to be freely exchangable or replaceable, in whol
 In its precise definition, Fungible is mostly restricted to law and finance. It is more commonly used in its more general sense of "interchangable."
 
 From Medieval [[Latin]] *fungibilis* "useful, interchangable," used especially in the legal term *rēs fungibilēs* "fungible things, interchangable items/" *Fungibilis* is a derivation of *fungi* "to perform the office of."
+
+## References
+https://www.dictionary.com/e/word-of-the-day/fungible-2020-07-22/

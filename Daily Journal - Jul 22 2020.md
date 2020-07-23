@@ -26,15 +26,19 @@ I really like how the Notion + Obsidian coordination is coming along. There are 
 ## Evening
 ##### Today's Successes
 *Note what went right today*
+ - Working with Obsidian / Zettelkasten
+ - 
 
 ##### Things to Improve
 *Note things you can do better tomorrow*
 
 ##### Am I Resisting Something?
 *Note any mental friction you experienced*
+ - Adding more Zettels, due to template
 
 ##### Favorite Zettel from Today
-[[]]
+[[Requisite]] - I like the template for words. How do I connect words better tho?
 
 ##### Story from Today
-*Tell a short story (good or bad) from today, or make up a fictional one.*
+*Tell a short story (good or bad) from today, or an event that made an impression on you, or make up a fictional one.*
+I was happy to get the Ruin roster management project set up. I plan to use it on a cylclical basis, and will experiment with that going forward. If this approach works, I may make more cyclic projects.

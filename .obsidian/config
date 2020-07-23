@@ -18,5 +18,6 @@
   "vimMode": true,
   "promptDelete": false,
   "showLineNumber": true,
-  "attachmentFolderPath": "assets"
+  "attachmentFolderPath": "assets",
+  "autoPairBrackets": false
 }

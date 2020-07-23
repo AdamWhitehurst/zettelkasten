@@ -4,29 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "81e3778d1aad2454",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Problem of Morality.md",
-            "mode": "source"
+        "id": "753e7640915c092a",
+        "type": "split",
+        "children": [
+          {
+            "id": "81e3778d1aad2454",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript.md",
+                "mode": "source"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ac1b7933516bcc76",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Journal - Jul 22 2020.md",
+                "mode": "source"
+              }
+            },
+            "group": "efe49b23ca1d7e3f"
           }
-        },
-        "group": "8b42344b49bf7bec"
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "592e1f707e3f3774",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Problem of Morality.md",
+            "file": "Daily Journal - Jul 22 2020.md",
             "mode": "preview"
-          }
+          },
+          "pinned": true
         },
-        "group": "8b42344b49bf7bec"
+        "group": "efe49b23ca1d7e3f"
       }
     ],
     "direction": "vertical"
@@ -94,10 +116,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Problem of Morality.md",
-    "Parsing Markdown Into Data.md",
-    "Zettel Metadata.md",
-    "Zettelkasten.md",
-    "Zettelkasten Organization.md"
+    "Daily Journal - Jul 22 2020.md",
+    "Requisite.md",
+    "Programmer.md",
+    "Barrels (TypeScript).md",
+    "TypeScript.md"
   ]
 }

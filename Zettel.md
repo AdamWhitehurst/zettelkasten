@@ -14,4 +14,4 @@ Make Zettels as small and succinct as possible, but not to the degree that it wo
 
 Imagine you are writing the Zettel so someone else could understand. Future you will encounter the Zettel as if it's the first time.
 
-References
+## References
