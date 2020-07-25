@@ -1,14 +1,13 @@
 ---
 
 id: 202007221336
-tags: []
+tags: [ #programming  #typescript ]
 source:
 
 ---
 
-# Title
+# BigInt
 
-## Subsection
 
 
 ## References

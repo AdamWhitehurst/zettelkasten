@@ -4,51 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "753e7640915c092a",
-        "type": "split",
-        "children": [
-          {
-            "id": "81e3778d1aad2454",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript.md",
-                "mode": "source"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "ac1b7933516bcc76",
-            "type": "leaf",
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Journal - Jul 22 2020.md",
-                "mode": "source"
-              }
-            },
-            "group": "efe49b23ca1d7e3f"
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "592e1f707e3f3774",
+        "id": "eaac0f01cf9d8b74",
         "type": "leaf",
-        "pinned": true,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Journal - Jul 22 2020.md",
-            "mode": "preview"
-          },
-          "pinned": true
+            "file": "Daily Journal 07-25-2020.md",
+            "mode": "source"
+          }
         },
-        "group": "efe49b23ca1d7e3f"
+        "group": "2c7928707fd8344d"
+      },
+      {
+        "id": "99a6ce950b34ae6f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily Journal 07-25-2020.md",
+            "mode": "preview"
+          }
+        },
+        "group": "2c7928707fd8344d"
       }
     ],
     "direction": "vertical"
@@ -81,7 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310
+    "width": 300
   },
   "right": {
     "id": "9fd20ff388d56d3d",
@@ -112,14 +90,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 380,
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Daily Journal - Jul 22 2020.md",
-    "Requisite.md",
-    "Programmer.md",
-    "Barrels (TypeScript).md",
-    "TypeScript.md"
+    "Daily Journal 07-25-2020.md",
+    "Noblesse Oblige.md",
+    "_layouts/_template - word.md",
+    "Coffers.md",
+    "_layouts/_template - journal.md"
   ]
 }

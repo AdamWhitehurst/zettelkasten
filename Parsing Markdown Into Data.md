@@ -1,7 +1,7 @@
 ---
 
 id: 202007220657
-tags: [ #datascience #analytics #statistics #todo ]
+tags: [ #datascience #programming #statistics #todo ]
 
 ---
 

@@ -22,9 +22,13 @@ export interface IPerson {
 	firstName: string;
 	middleName: string;
 	lastName: string;
+	// this member is optional
+	age?: number;
 };
 
 ```
 
 
 ## References
+https://basarat.gitbook.io/typescript/type-system/interfaces
+https://coryrylan.com/blog/rich-domain-models-with-typescript

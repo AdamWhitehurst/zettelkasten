@@ -7,9 +7,11 @@ source: https://trms.me/some-thoughts-on-how-to-keep-a-zettelkasten/
 ---
 
 # Zettelkasten Organization
-The way in which [[Zettel|Zettels]] are [[Zettel Content|structured]] and the way they are interlinked and grouped.
+The way in which [[Zettel|Zettels]] are [[Zettel Content|laid out]] and the way they are interlinked and grouped. 
 
 ## Interlinking
+Specialized Zettels, called [[Layers of Zettels|Structure Zettels]] are often used to provide a level of organization to a Zettelkasten.
+
 ![[Zettelkasten Links.png]]
 
 *A series of Zettels (nodes) connected by links (edges). Though it appears that this is a mess of interconnected nodes, this is indeed what we want!*
@@ -29,4 +31,9 @@ One must be aware that one may encounter this point-of-entry problem with tags t
 
 When thinking of tags, ask yourself: *"This note is about X, Y, Z"*
 
+## See Also
+[[Zettel Hierarchies]]
+
 ## References
+https://zettelkasten.de/posts/kinds-of-ties/
+https://zettelkasten.de/posts/understanding-hierarchy-translating-folgezettel/

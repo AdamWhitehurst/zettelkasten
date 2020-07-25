@@ -12,7 +12,7 @@ A collection of specific [[Types (TypeScript)]]s of data, denoted by that type f
 
 [[Element]]s of an Array are access by `arrayName[arrayIndex]`. 
 
-May also be specified with [[Generic Types]] :. `let list: Array<elemType> = ...`
+May also be specified with [[Generic Types (TypeScript)]] :. `let list: Array<elemType> = ...`
 
 Array declarations allocate sequential [[memory blocks]]. Each block represents an array element
 

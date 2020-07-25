@@ -6,9 +6,8 @@ source:
 
 ---
 
-# Title
+# Null Value in TypeScript
 
-## Subsection
 
 
 ## References

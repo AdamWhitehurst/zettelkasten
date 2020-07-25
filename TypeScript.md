@@ -25,6 +25,8 @@ An [[open-source]] superset of [[JavaScript]] that provides static [[Types (Type
 [[Return Types (TypeScript)]]
 [[Custom Types (TypeScript)]]
 [[Barrel (TypeScript)]]
+[[Models (TypeScript)]]
+[[Generic Types (TypeScript)]]
 
 ## References
 TypeScript Main Page: https://www.typescriptlang.org/index.html

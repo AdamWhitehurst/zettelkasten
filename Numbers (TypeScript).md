@@ -1,14 +1,13 @@
 ---
 
 id: 202007221331
-tags: []
+tags: [ #typescript #javascript #programming ]
 source:
 
 ---
 
-# Title
+# Number values in TypeScript
 
-## Subsection
 
 
 ## References

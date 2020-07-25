@@ -12,12 +12,31 @@
     "Tag pane": true,
     "Page preview": true,
     "Daily notes": true,
-    "Zettelkasten prefixer": true
+    "Zettelkasten prefixer": true,
+    "Custom CSS": true
   },
   "alwaysUpdateLinks": true,
-  "vimMode": true,
+  "vimMode": false,
   "promptDelete": false,
   "showLineNumber": true,
   "attachmentFolderPath": "assets",
-  "autoPairBrackets": false
+  "autoPairBrackets": false,
+  "hotkeys": {
+    "app:toggle-left-sidebar": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "ArrowRight"
+      }
+    ],
+    "app:toggle-right-sidebar": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "ArrowLeft"
+      }
+    ]
+  }
 }

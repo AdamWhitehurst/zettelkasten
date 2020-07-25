@@ -1,14 +1,12 @@
 ---
 
 id: 202007221335
-tags: []
+tags: [ #javascript #typescript #programming ]
 source:
 
 ---
 
-# Title
-
-## Subsection
+# Booleans in TypeScript
 
 
 ## References
