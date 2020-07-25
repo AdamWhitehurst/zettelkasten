@@ -6,9 +6,7 @@ tags: [ #word #definition ]
 ---
 
 # Coffers
-
 **_Class:_** *noun*
-
 **_Pronunciation:_** *KOF-erz*
 
 ---

@@ -6,9 +6,7 @@ tags: [ #word #definition ]
 ---
 
 # Gyre
-
 **_Class:_** *noun*
-
 **_Pronunciation:_** *JYRE*
 
 ---

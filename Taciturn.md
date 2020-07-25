@@ -6,9 +6,7 @@ tags: [ #word #definition ]
 ---
 
 # Taciturn
-
 **_Class:_** *adjective*
-
 **_Pronunciation:_** *TAS-i-turn*
 
 ---

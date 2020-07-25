@@ -6,11 +6,12 @@
       {
         "id": "eaac0f01cf9d8b74",
         "type": "leaf",
+        "dimension": 54.80392156862746,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Journal 07-25-2020.md",
+            "file": "Slip Box/Todo.md",
             "mode": "source"
           }
         },
@@ -19,11 +20,12 @@
       {
         "id": "99a6ce950b34ae6f",
         "type": "leaf",
+        "dimension": 45.196078431372555,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Journal 07-25-2020.md",
-            "mode": "preview"
+            "file": "Slip Box/Todo.md",
+            "mode": "source"
           }
         },
         "group": "2c7928707fd8344d"
@@ -94,10 +96,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Daily Journal 07-25-2020.md",
-    "Noblesse Oblige.md",
-    "_layouts/_template - word.md",
-    "Coffers.md",
-    "_layouts/_template - journal.md"
+    "Slip Box/Todo.md",
+    "Slip Box/QuickNote.md",
+    "Daily Journal 07-24-2020.md",
+    "Custom Types (TypeScript).md",
+    "Slip Box/Untitled.md"
   ]
 }

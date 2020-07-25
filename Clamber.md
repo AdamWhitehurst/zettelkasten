@@ -6,9 +6,7 @@ tags: [ #word #definition ]
 ---
 
 # Clamber
-
 **_Class:_** *verb*
-
 **_Pronunciation:_** *KLAM-ber*
 
 ---

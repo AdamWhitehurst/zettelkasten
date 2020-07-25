@@ -6,9 +6,7 @@ tags: [ #word #definition ]
 ---
 
 # Ignominious
-
 **_Class:_** *adjective*
-
 **_Pronunciation:_** *ig-NO-min-ee-uhs*
 
 ---

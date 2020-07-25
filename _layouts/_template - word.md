@@ -6,9 +6,7 @@ tags: [ #word #definition ]
 ---
 
 # Word
-
 **_Class:_** **
-
 **_Pronunciation:_** **
 
 ---

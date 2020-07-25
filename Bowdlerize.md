@@ -6,9 +6,7 @@ tags: [ #word #definition ]
 ---
 
 # Bowdlerize
-
 **_Class:_** *verb*
-
 **_Pronunciation:_** *BOHD-ler-ize*
 
 ---

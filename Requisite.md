@@ -6,9 +6,7 @@ tags: [ #word #definition ]
 ---
 
 # Requisite
-
 **_Class:_** *adjective*
-
 **_Pronunciation:_** *REK-wuh-zut*
 
 ---

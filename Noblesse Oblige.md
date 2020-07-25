@@ -6,9 +6,7 @@ tags: [ #word #definition ]
 ---
 
 # Noblesse Oblige
-
 **_Class:_** *noun*
-
 **_Pronunciation:_** *noh-BLESS-uh-BLEEZH*
 
 ---

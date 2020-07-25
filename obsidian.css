@@ -44,6 +44,7 @@
 
 .theme-dark {
   --font-monospace: "Hack Nerd Font", "Source Code Pro", monospace;
+  --font: "IBM Plex Mono", "Fira Mono", monospace;
   --background-primary: var(--dark0);
   --background-primary-alt: var(--dark0);
   --background-secondary: var(--dark0-hard);
@@ -131,10 +132,10 @@
 
 html,
 body {
-  font-family: "IBM Plex Mono", monospace;
-  font-weight: 200;
+  font-family: var(--font);
+  font-weight: 400;
   font-size: 16px !important;
-  letter-spacing: -0.06em;
+  letter-spacing: -0.05em;
 }
 
 h1,
@@ -252,7 +253,8 @@ img {
 
 .CodeMirror-linenumber,
 .cm-formatting {
-  font-family: var(--font-monospace) !important;
+  font-family: var(--font);
+  font-weight: 100;
 }
 
 .markdown-preview-section pre code,
@@ -416,4 +418,9 @@ input.task-list-item-checkbox {
 input.task-list-item-checkbox:checked {
   background-color: var(--dark4);
   box-shadow: inset 0 0 0 2px var(--background-primary);
+}
+
+/** Override Graph Labels to remove ugly white border **/
+.mermaid g.label rect {
+  fill: none !important;
 }

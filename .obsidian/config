@@ -13,14 +13,15 @@
     "Page preview": true,
     "Daily notes": true,
     "Zettelkasten prefixer": true,
-    "Custom CSS": true
+    "Custom CSS": true,
+    "Audio recorder": true
   },
   "alwaysUpdateLinks": true,
   "vimMode": false,
   "promptDelete": false,
   "showLineNumber": true,
   "attachmentFolderPath": "assets",
-  "autoPairBrackets": false,
+  "autoPairBrackets": true,
   "hotkeys": {
     "app:toggle-left-sidebar": [
       {
@@ -38,5 +39,9 @@
         "key": "ArrowLeft"
       }
     ]
-  }
+  },
+  "useTab": false,
+  "spellcheck": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Slip Box"
 }

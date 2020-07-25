@@ -6,9 +6,7 @@ tags: [ #word #definition ]
 ---
 
 # Fungible
-
 **_Class:_** *adjective*
-
 **_Pronunciation:_** *FUHN-juh-buhl*
 
 ---
