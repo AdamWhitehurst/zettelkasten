@@ -1,3 +1,1 @@
-New quick note
-
-New Quick Note
+Vim binding type speed tester. Vim-binding-styled-type-hero.

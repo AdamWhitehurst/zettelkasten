@@ -4,31 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "eaac0f01cf9d8b74",
+        "id": "213f7fd56fdaa75a",
         "type": "leaf",
-        "dimension": 54.80392156862746,
+        "dimension": 54.11764705882353,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Slip Box/Crippling Poison.md",
+            "mode": "source"
+          }
+        },
+        "group": "716756e1026c78fb"
+      },
+      {
+        "id": "d6ff05038cb96e60",
+        "type": "leaf",
+        "dimension": 45.88235294117647,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slip Box/Todo.md",
-            "mode": "source"
+            "file": "Slip Box/Crippling Poison.md",
+            "mode": "preview"
           }
         },
-        "group": "2c7928707fd8344d"
-      },
-      {
-        "id": "99a6ce950b34ae6f",
-        "type": "leaf",
-        "dimension": 45.196078431372555,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Slip Box/Todo.md",
-            "mode": "source"
-          }
-        },
-        "group": "2c7928707fd8344d"
+        "group": "716756e1026c78fb"
       }
     ],
     "direction": "vertical"
@@ -96,10 +96,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Slip Box/Todo.md",
-    "Slip Box/QuickNote.md",
-    "Daily Journal 07-24-2020.md",
-    "Custom Types (TypeScript).md",
-    "Slip Box/Untitled.md"
+    "Slip Box/Crippling Poison.md",
+    "Slip Box/Deadly Poison.md",
+    "Slip Box/Rogue.md",
+    "Slip Box/Eviscerate.md",
+    "Slip Box/Cheap Shot.md"
   ]
 }
