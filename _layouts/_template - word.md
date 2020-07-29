@@ -1,10 +1,3 @@
----
-
-id: YYYYMMDDHHMM
-tags: [ #word #definition ]
-
----
-
 # Word
 **_Class:_** **
 **_Pronunciation:_** **
@@ -12,7 +5,13 @@ tags: [ #word #definition ]
 ---
 
 ### Definition
+1. 
 
+### Sentence
 
 ### Trivia
-*Etymology, interesting uses, etc.*
+
+---
+
+id: YYYYMMDDHHMM
+tags: [ #word #definition #etymology  ]

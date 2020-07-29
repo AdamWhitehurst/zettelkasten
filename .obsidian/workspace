@@ -4,31 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "213f7fd56fdaa75a",
+        "id": "1f06fd9663d20e2a",
         "type": "leaf",
-        "dimension": 54.11764705882353,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Slip Box/Crippling Poison.md",
-            "mode": "source"
-          }
-        },
-        "group": "716756e1026c78fb"
-      },
-      {
-        "id": "d6ff05038cb96e60",
-        "type": "leaf",
-        "dimension": 45.88235294117647,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slip Box/Crippling Poison.md",
+            "file": "Slip Box/The Joe Rogan Experience.md",
+            "mode": "source"
+          }
+        },
+        "group": "31aee63f11c9f828"
+      },
+      {
+        "id": "21aaf6050785fdf7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Slip Box/The Joe Rogan Experience.md",
             "mode": "preview"
           }
         },
-        "group": "716756e1026c78fb"
+        "group": "31aee63f11c9f828"
       }
     ],
     "direction": "vertical"
@@ -89,17 +87,35 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "fbe2602ce3b49e95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdbb83f95dc6d369",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rogue.md",
+                "mode": "preview"
+              },
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 380,
-    "collapsed": true
+    "width": 380
   },
   "lastOpenFiles": [
-    "Slip Box/Crippling Poison.md",
-    "Slip Box/Deadly Poison.md",
-    "Slip Box/Rogue.md",
-    "Slip Box/Eviscerate.md",
-    "Slip Box/Cheap Shot.md"
+    "Slip Box/The Joe Rogan Experience.md",
+    "Slip Box/Coleman Insights.md",
+    "_layouts/_template - zettel.md",
+    "Slip Box/Sprint 31 Highlights.md",
+    "_layouts/_template - word.md"
   ]
 }

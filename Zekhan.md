@@ -17,6 +17,8 @@ Because of his thwarting this assassination attempt, he is promoted to the [[Zul
     Rokhan: "I think young queen will find his presence less revolting than mine or yours."
 Following this exchange, Rokhan gives Zekhan a dagger.
 
+Later, when Bwonsamdi gives zekhan a vision of Saurfang being on Draenor with his family, Zekhan promises to influence Talanji to side with the horde. 
+
 ## See Also
 [[Shadows Rising]]
 

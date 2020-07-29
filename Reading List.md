@@ -12,6 +12,7 @@ These are books I am thinking about--or currently--reading:
 - [[The Gulag Archipelago]]
 - [[Shadows Rising]]
 - [[The Road to Wigan Pier]]
+- [[The Singularity Is Near]]
 
 ## See Also
 [[Completed Books List]]

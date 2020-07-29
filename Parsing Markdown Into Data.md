@@ -26,4 +26,6 @@ const note = {
 };
 ```
 
+const imgOrText(readContent(Element or Node);
+
 ## References

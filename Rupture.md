@@ -1,16 +1,19 @@
 ![[Pasted image 17.png]]
-E 25
-C GCD
+G 
 R Melee
 T Instant
-P 1-5
+P 25e
+S 1-5cp
 
-Finishing move that tears open the target, dealing Bleed damage over time. Lasts longer per combo point.
+Finishing move that tears open the target, dealing Bleed damage over time. Lasts longer per combo point. ==60 + (8 * ComboPoints)== damage every 2 seconds.  Rupture returns Energy via [[Venomous Wounds]].
+
+## See Also
+[[Rogue]]
+[[World of Warcraft Ability Template]]
 
 ---
 
 id: 20200725226
 tags: [ #worldofwarcraft #rogue #ability ]
-primary source: in game
 
 ---

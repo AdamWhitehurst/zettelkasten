@@ -1,11 +1,3 @@
----
-
-id: YYYYMMDDHHMM
-tags: [ #journal #daily ]
-previous entry: [[]]
-
----
-
 # MTH DD, YYYY
 ---
 ## Morning
@@ -25,6 +17,10 @@ previous entry: [[]]
 [[]]
 [[]]
 
+##### Typing Practice
+- [ ] 5 Tests Logged
+
+- Notes: 
 ---
 ## Evening
 ##### Today's Successes
@@ -41,3 +37,10 @@ previous entry: [[]]
 
 ##### Story from Today
 *Tell a short story (good or bad) from today, or make up a fictional one.*
+
+
+---
+
+id: YYYYMMDDHHMM
+tags: [ #journal #daily ]
+previous entry: [[]]
