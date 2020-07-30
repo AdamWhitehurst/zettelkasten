@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slip Box/The Joe Rogan Experience.md",
+            "file": "Slip Box/Daily Journal 07-30-2020.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slip Box/The Joe Rogan Experience.md",
+            "file": "Slip Box/Daily Journal 07-30-2020.md",
             "mode": "preview"
           }
         },
@@ -109,13 +109,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380
+    "width": 380,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "Slip Box/The Joe Rogan Experience.md",
-    "Slip Box/Coleman Insights.md",
-    "_layouts/_template - zettel.md",
-    "Slip Box/Sprint 31 Highlights.md",
-    "_layouts/_template - word.md"
+    "Slip Box/Daily Journal 07-30-2020.md",
+    "Slip Box/Evanescent.md",
+    "_layouts/_template - word.md",
+    "Slip Box/Catastrophe.md",
+    "_layouts/_template - zettel.md"
   ]
 }
