@@ -26,6 +26,13 @@ const note = {
 };
 ```
 
+This process should be done with a markdown-to-json parser, as JSON easily maps to the data objects we want. Currently-known packages that do this are:
+[[markdown-json]]
+
 const imgOrText(readContent(Element or Node);
+
+## Packages
+[[markdown-js]]
+[[markdown-it]]
 
 ## References

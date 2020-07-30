@@ -6,7 +6,7 @@ primary source:
 
 ---
 
-# An Empirical Analysis of Racial Differences in Polie Use of Force
+# An Empirical Analysis of Racial Differences in Police Use of Force
 >On non-lethal uses of force, blacks and Hispanics are more than ﬁfty percent more likely to experience some form of force in interactions with police.
 
 > On the most extreme use of force –oﬃcer-involved shootings – we ﬁnd no racial diﬀerences in either the raw data or when contextual factors are taken into account.
