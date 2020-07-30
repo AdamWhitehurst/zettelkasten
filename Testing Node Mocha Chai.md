@@ -44,7 +44,7 @@ it ('should be equal', () => {
 ---
 
 id: 202007281155
-tags: [ #javascript #webdev #programming ]
+tags: #javascript #webdev #programming
 primary source:
 
 ---

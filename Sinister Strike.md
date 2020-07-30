@@ -16,6 +16,6 @@ _(Replaced by [[Mutilate]] at level )_
 ---
 
 id: 20200725228
-tags: [ #worldofwarcraft #rogue #ability ]
+tags: #worldofwarcraft #rogue #ability
 
 ---

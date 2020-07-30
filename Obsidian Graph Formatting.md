@@ -1,7 +1,7 @@
 ---
 
 id: 202007251216
-tags: [ #obsidian #markdown #mermaid #statistics ]
+tags: #obsidian #markdown #mermaid #statistics
 source: https://mermaid-js.github.io/mermaid/#/README
 
 ---

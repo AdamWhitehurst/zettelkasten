@@ -1,7 +1,7 @@
 ---
 
 id: 202007231526
-tags: [ #neuroscience #consciousness #physiology ]
+tags: #neuroscience #consciousness #physiology
 source: 
 
 ---

@@ -13,6 +13,6 @@ Redirects all threat you cause to the targeted party or raid member, beginning w
 ---
 
 id: 20200725248
-tags: [ #worldofwarcraft #rogue #ability ]
+tags: #worldofwarcraft #rogue #ability
 
 ---

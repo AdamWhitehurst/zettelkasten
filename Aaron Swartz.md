@@ -1,7 +1,7 @@
 ---
 
 id: 202007240840
-tags: [ #programming #markdown ]
+tags: #programming #markdown #progammer
 source: https://en.wikipedia.org/wiki/Aaron_Swartz
 
 ---

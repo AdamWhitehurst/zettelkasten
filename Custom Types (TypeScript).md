@@ -1,7 +1,7 @@
 ---
 
 id: 202007221548
-tags: [ #javascript #typescript #programming ]
+tags: #javascript #typescript #programming
 source: https://www.typescriptlang.org/docs/handbook/advanced-types.html
 
 ---

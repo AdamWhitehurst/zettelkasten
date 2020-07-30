@@ -14,6 +14,6 @@ Awards 2 combo points.
 ---
 
 id: 20200725239
-tags: [ #worldofwarcraft #rogue #ability ]
+tags: #worldofwarcraft #rogue #ability
 
 ---

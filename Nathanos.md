@@ -1,7 +1,7 @@
 ---
 
 id: 202007251539
-tags: [ #worldofwarcraft #horde #sylvanas ]
+tags: #worldofwarcraft #horde #sylvanas
 primary source: https://wow.gamepedia.com/Nathanos_Blightcaller
 
 ---

@@ -11,5 +11,5 @@ A [[Markdown]] to [[JavaScript]] parser: "Markdown parser, done right. 100% Comm
 ---
 
 id: 202007300950
-tags: [ #javascript #programming #markdown ]
+tags: #javascript #programming #markdown
 primary source: https://github.com/markdown-it/markdown-it

@@ -14,6 +14,6 @@ Finishing move that tears open the target, dealing Bleed damage over time. Lasts
 ---
 
 id: 20200725226
-tags: [ #worldofwarcraft #rogue #ability ]
+tags: #worldofwarcraft #rogue #ability
 
 ---

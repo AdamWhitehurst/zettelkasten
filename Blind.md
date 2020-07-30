@@ -13,6 +13,6 @@ Blinds the target, causing it to wander disoriented for 1 min. Damage will inter
 ---
 
 id: 20200725231
-tags: [ #worldofwarcraft #rogue #ability ]
+tags: #worldofwarcraft #rogue #ability
 
 ---

@@ -20,4 +20,4 @@ From [[Greek]] *katastrophē*, from *katastrephein,* meaning "to overturn". Firs
 ---
 
 id: 202007300723
-tags: [ #word #definition #etymology  ]
+tags: #word #definition #etymology 

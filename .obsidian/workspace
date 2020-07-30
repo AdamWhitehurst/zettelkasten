@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slip Box/markdown-json.md",
+            "file": "Slip Box/Regex Lookarounds.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slip Box/markdown-json.md",
+            "file": "Slip Box/Regex Lookarounds.md",
             "mode": "preview"
           }
         },
@@ -113,10 +113,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Slip Box/markdown-json.md",
+    "Slip Box/Regex Lookarounds.md",
+    "Slip Box/Regex.md",
     "_layouts/_template - zettel.md",
-    "Parsing Markdown Into Data.md",
-    "Slip Box/markdown-it.md",
-    "Slip Box/markdown-js.md"
+    "Slip Box/Untitled.md",
+    "Slip Box/markdown-json.md"
   ]
 }

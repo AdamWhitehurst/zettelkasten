@@ -1,7 +1,7 @@
 ---
 
 id: 202007251519
-tags: [ #worldofwarcraft ]
+tags: #worldofwarcraft
 primary source: https://wow.gamepedia.com/Tayo
 
 ---

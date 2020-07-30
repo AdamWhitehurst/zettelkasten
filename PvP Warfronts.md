@@ -1,7 +1,7 @@
 ---
 
 id: 202007261918
-tags: [ #worldofwarcraft #battleforazeroth ]
+tags: #worldofwarcraft #battleforazeroth
 primary source:
 
 ---

@@ -1,7 +1,7 @@
 ---
 
 id: 202007271324
-tags: [ #worldofwarcraft #horde #terranempire ]
+tags: #worldofwarcraft #horde #terranempire
 primary source:
 
 ---

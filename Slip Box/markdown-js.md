@@ -16,5 +16,5 @@ Yet another Markdown parser, this time for JavaScript. There's a few options tha
 ---
 
 id: 202007300949
-tags: [ #javascript #programming #markdown ]
+tags: #javascript #programming #markdown
 primary source: https://github.com/evilstreak/markdown-js

@@ -1,7 +1,7 @@
 ---
 
 id: 202007231552
-tags: [ #neuroscience #research #joerogan ]
+tags: #neuroscience #research #joerogan
 source: https://www.youtube.com/watch?v=gLJowTOkZVo
 
 ---

@@ -15,6 +15,6 @@ From [[Latin]] *verēcundus* "restrained by or sensitive to scruples or feelings
 ---
 
 id: 202007280947
-tags: [ #word #definition #etymology  ]
+tags: #word #definition #etymology 
 
 ---

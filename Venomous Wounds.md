@@ -11,6 +11,6 @@ If an enemy dies while afflicted by your Rupture, you regain energy based on its
 ---
 
 id: 20200725242
-tags: [ #worldofwarcraft #rogue #ability ]
+tags: #worldofwarcraft #rogue #ability
 
 ---

@@ -14,6 +14,6 @@ Incapacitates a target not in combat for 1 minute. Only works on Humanoids, Beas
 ---
 
 id: 20200725227
-tags: [ #worldofwarcraft #rogue #ability ]
+tags: #worldofwarcraft #rogue #ability
 
 ---

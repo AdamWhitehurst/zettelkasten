@@ -14,6 +14,6 @@ Generate 60 Energy over 3 sec.
 ---
 
 id: 20200725244
-tags: [ #worldofwarcraft #rogue #ability ]
+tags: #worldofwarcraft #rogue #ability
 
 ---

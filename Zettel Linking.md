@@ -1,7 +1,7 @@
 ---
 
 id: 202007231209
-tags: [ #zettelkasten ]
+tags: #zettelkasten
 source: https://zettelkasten.de/posts/kinds-of-ties/
 
 ---

@@ -10,6 +10,6 @@ When you critically strike with a melee attack that generates combo points, you 
 ---
 
 id: 20200725234
-tags: [ #worldofwarcraft #rogue #ability ]
+tags: #worldofwarcraft #rogue #ability
 
 ---

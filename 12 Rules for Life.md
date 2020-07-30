@@ -1,7 +1,7 @@
 ---
 
 id: 202007240946
-tags: [ #jordanpeterson #12rulesforlife #reading ]
+tags: #jordanpeterson #12rulesforlife #reading
 
 ---
 

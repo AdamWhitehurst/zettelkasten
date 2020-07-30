@@ -10,5 +10,5 @@
 ---
 
 id: 202007291608
-tags: [ #study #statistics #resarch ]
+tags: #study #statistics #resarch
 primary source: https://colemaninsights.com/news/coleman-insights-finds-that-joe-rogan-is-the-biggest-brand-in-podcasting

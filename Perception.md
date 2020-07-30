@@ -1,7 +1,7 @@
 ---
 
 id: 202007231519
-tags: [ #nervoussystem #consciousness ]
+tags: #nervoussystem #consciousness
 source: https://en.wikipedia.org/wiki/Perception
 
 ---

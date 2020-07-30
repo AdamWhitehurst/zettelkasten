@@ -10,7 +10,7 @@ A video shared with me by my father.
 ---
 
 id: 202029070807
-tags: [ #video #interesting ]
+tags: #video #interesting
 primary source:
 
 ---

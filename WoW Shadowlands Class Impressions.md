@@ -1,7 +1,7 @@
 ---
 
 id: 202007241730
-tags: [ #worldofwarcraft ]
+tags: #worldofwarcraft
 source: https://www.youtube.com/watch?v=zNy1cffBz30
 
 ---
@@ -10,9 +10,9 @@ source: https://www.youtube.com/watch?v=zNy1cffBz30
 
 ## Alpha
 | Player | Main Specialization | Alt. Specialization |
-| ------ | ------------------- | ------------------- | 
+| ------ | ------------------- | ------------------- |
 | Preach | Balance Druid       | Shadow Priest       |
-| Fingle | Shadow Priest       | Ele/Enh Shaman      | 
+| Fingle | Shadow Priest       | Ele/Enh Shaman      |
 
 - Discipline Priest feels better than Shadow Priest
 	- Void Form timing is weird

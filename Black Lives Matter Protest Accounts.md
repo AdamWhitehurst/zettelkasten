@@ -1,7 +1,7 @@
 ---
 
 id: 202007261013
-tags: [ #society #blacklivesmatter #politics ]
+tags: #society #blacklivesmatter #politics
 primary source:
 
 ---

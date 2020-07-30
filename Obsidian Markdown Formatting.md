@@ -1,7 +1,7 @@
 ---
 
 id: 202007251030
-tags: [ #markdown #formatting ]
+tags: #markdown #formatting
 source: https://github.github.com/gfm/
 
 ---
@@ -108,7 +108,7 @@ const obj = {};
 
 | Header Column 1 | Header Column 2 | Header Column 3 |
 | :-------------- | :-------------: | --------------: |
-| Left | Center | right |
+| Left            |     Center      |           right |
 
 ---
 # Footnotes

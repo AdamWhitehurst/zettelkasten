@@ -1,7 +1,7 @@
 ---
 
 id: 202007262059
-tags: [ #worldofwarcraft ]
+tags: #worldofwarcraft
 primary source: https://wow.gamepedia.com/Ogmot%27s_Dream_Journal
 
 ---

@@ -16,6 +16,6 @@ Finishing move that disembowels the target, causing damage per combo point. ==(1
 ---
 
 id: 20200725221
-tags: [ #worldofwarcraft #rogue #ability ]
+tags: #worldofwarcraft #rogue #ability
 
 ---

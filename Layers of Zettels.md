@@ -1,7 +1,7 @@
 ---
 
 id: 202007231215
-tags: [ #zettelkasten ]
+tags: #zettelkasten
 source: https://zettelkasten.de/posts/three-layers-structure-zettelkasten/
 
 ---

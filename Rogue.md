@@ -1,9 +1,9 @@
 # Assassination Rogue
-|               |               | 
-| ------------- | ------------- |
-| Role          | DPS           |
-| Stat Priority | [[Crit]], [[Mastery]],  [[Versatility]], [[Agility]], [[Haste]]
-|               |               |
+|               |                                                                 |
+| ------------- | --------------------------------------------------------------- |
+| Role          | DPS                                                             |
+| Stat Priority | [[Crit]], [[Mastery]],  [[Versatility]], [[Agility]], [[Haste]] |
+|               |                                                                 |
 ## Tips
 
 - Stealth to avoid trash
@@ -73,6 +73,6 @@ Make sure you do not find yourself being Energy capped or casting Combo Point ge
 ---
 
 id: 202007251750
-tags: [ #worldofwarcraft #rogue ]
+tags: #worldofwarcraft #rogue
 
 ---

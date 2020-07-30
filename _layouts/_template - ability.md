@@ -14,4 +14,4 @@ TEXT
 ---
 
 id: YYYYMMDDHHMM
-tags: [ #worldofwarcraft #ability ]
+tags: #worldofwarcraft #ability

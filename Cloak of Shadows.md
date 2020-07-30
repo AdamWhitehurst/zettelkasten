@@ -13,6 +13,6 @@ Provides a moment of magic immunity, instantly removing all harmful spell effect
 ---
 
 id: 20200725250
-tags: [ #worldofwarcraft #rogue #ability ]
+tags: #worldofwarcraft #rogue #ability
 
 ---

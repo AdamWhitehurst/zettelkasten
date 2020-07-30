@@ -1,7 +1,7 @@
 ---
 
 id: 202007240845
-tags: [ #programming #markdown ]
+tags: #programming #markdown
 source:
 
 ---

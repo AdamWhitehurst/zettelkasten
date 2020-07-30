@@ -1,7 +1,7 @@
 ---
 
 id: 202007230931
-tags: [ #javascript #typescript #programming ]
+tags: #javascript #typescript #programming
 source: https://coryrylan.com/blog/rich-domain-models-with-typescript
 
 ---

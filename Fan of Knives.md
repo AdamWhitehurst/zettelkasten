@@ -16,6 +16,6 @@ https://www.wowhead.com/spell=51723/fan-of-knives
 ---
 
 id: 20200725246
-tags: [ #worldofwarcraft #rogue #ability ]
+tags: #worldofwarcraft #rogue #ability
 
 ---

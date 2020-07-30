@@ -9,7 +9,7 @@ The idea that our behavior changes based on the context we are in.
 ---
 
 id: 202007291013
-tags: [ #character #psychology ]
+tags: #character #psychology
 primary source:
 
 ---

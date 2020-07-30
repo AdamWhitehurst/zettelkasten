@@ -1,7 +1,7 @@
 ---
 
 id: 202007271600
-tags: [ #worldofwarcraft #alliance  ]
+tags: #worldofwarcraft #alliance 
 primary source: https://wow.gamepedia.com/Anduin_Wrynn
 
 ---

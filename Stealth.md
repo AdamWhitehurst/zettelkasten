@@ -14,6 +14,6 @@ Conceals you in shadows until cancelled, allowing you to satalk enemie without b
 ---
 
 id: 20200725229
-tags: [ #worldofwarcraft #rogue #ability ]
+tags: #worldofwarcraft #rogue #ability
 
 ---

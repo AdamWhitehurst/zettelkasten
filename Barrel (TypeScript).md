@@ -1,7 +1,7 @@
 ---
 
 id: 202007221606
-tags: [ #programming #typescript ]
+tags: #programming #typescript
 source: https://basarat.gitbook.io/typescript/main-1/barrel
 
 ---

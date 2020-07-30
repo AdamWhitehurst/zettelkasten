@@ -1,7 +1,7 @@
 ---
 
 id: 202007271520
-tags: [ #word #definition #etymology  ]
+tags: #word #definition #etymology 
 primary source: https://en.wikipedia.org/wiki/Existentialism
 
 ---

@@ -13,6 +13,6 @@ Drink an alchemical concoction that heals you for 30% of your maximum health ove
 ---
 
 id: 20200725220
-tags: [ #worldofwarcraft #rogue #ability ]
+tags: #worldofwarcraft #rogue #ability
 
 ---

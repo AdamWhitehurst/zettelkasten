@@ -1,7 +1,7 @@
 ---
 
 id: 202007221539
-tags: [ #typescript #javascript #programming ]
+tags: #typescript #javascript #programming
 source:
 
 ---

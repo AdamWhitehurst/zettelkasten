@@ -1,7 +1,7 @@
 ---
 
 id: 202007230709
-tags: [ #computers #programming ]
+tags: #computers #programming
 source:
 
 ---

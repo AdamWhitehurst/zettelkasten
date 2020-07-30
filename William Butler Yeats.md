@@ -1,7 +1,7 @@
 ---
 
 id: 202007230732
-tags: [ #poet #irish #literature ]
+tags: #poet #irish #literature
 source: https://en.wikipedia.org/wiki/W._B._Yeats
 
 ---

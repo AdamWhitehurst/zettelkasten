@@ -49,7 +49,7 @@ Affects each class differently.
 ---
 
 id: 202007271843
-tags: [ #worldofwarcraft #statistics ]
+tags: #worldofwarcraft #statistics
 primary source: https://wow.gamepedia.com/Attributes#Mastery
 
 ---

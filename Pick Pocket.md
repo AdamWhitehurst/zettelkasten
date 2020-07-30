@@ -10,6 +10,6 @@ Pick the target's pocket
 ---
 
 id: 20200725224
-tags: [ #worldofwarcraft #rogue #ability ]
+tags: #worldofwarcraft #rogue #ability
 
 ---

@@ -9,7 +9,7 @@ Increase outgoing damage, healing, absorbs, and (to a lesser extent) reduces inc
 ---
 
 id: 202007271845
-tags: [ #worldofwarcraft #statistics ]
+tags: #worldofwarcraft #statistics
 primary source: https://wow.gamepedia.com/Attributes#Versatility
 
 ---

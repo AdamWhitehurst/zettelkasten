@@ -1,7 +1,7 @@
 ---
 
 id: 202007232013
-tags: [ #zettelkasten ]
+tags: #zettelkasten
 source: Mukul Khanna YouTube
 
 ---

@@ -18,6 +18,6 @@ From [[Latin]] *praecludere*, from *claudere* "to shut, close"
 ---
 
 id: 202007290834
-tags: [ #word #definition #etymology  ]
+tags: #word #definition #etymology 
 
 ---

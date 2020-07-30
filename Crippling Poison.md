@@ -7,6 +7,6 @@ Coats your weaopns with a Non-Lethal Poison that lasts for 1 hour. Each strike h
 ---
 
 id: 20200725252
-tags: [ #worldofwarcraft #rogue #ability ]
+tags: #worldofwarcraft #rogue #ability
 
 ---

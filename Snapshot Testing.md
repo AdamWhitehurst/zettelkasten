@@ -49,7 +49,7 @@ Jest Cheatsheet: https://devhints.io/jest
 ---
 
 id: 202007281249
-tags: [ #javascript #programming #webdev #testing ]
+tags: #javascript #programming #webdev #testing
 primary source: https://jestjs.io/docs/en/snapshot-testing
 
 ---

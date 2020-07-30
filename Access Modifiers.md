@@ -1,7 +1,7 @@
 ---
 
 id: 202007231032
-tags: [ #programming ]
+tags: #programming
 source: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers
 
 ---

@@ -1,7 +1,7 @@
 ---
 
 id: 202007240838
-tags: [ #programming #markdown ]
+tags: #programming #markdown
 source: https://en.wikipedia.org/wiki/John_Gruber
 
 ---

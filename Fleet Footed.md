@@ -10,6 +10,6 @@ Your movement speed is increased by 15% and you take reduced falling damage.
 ---
 
 id: 20200725245
-tags: [ #worldofwarcraft #rogue #ability ]
+tags: #worldofwarcraft #rogue #ability
 
 ---

@@ -1,7 +1,7 @@
 ---
 
 id: 202007240919
-tags: [ #reading #books #learning ]
+tags: #reading #books #learning
 
 ---
 

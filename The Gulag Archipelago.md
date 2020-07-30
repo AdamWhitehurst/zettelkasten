@@ -1,7 +1,7 @@
 ---
 
 id: 202007241023
-tags: [ #aleksandrsolzhenitsyn #reading #psychology #communism ]
+tags: #aleksandrsolzhenitsyn #reading #psychology #communism
 
 ---
 

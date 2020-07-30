@@ -11,7 +11,7 @@ Most important to leather wearers and mail wearers
 ---
 
 id: 202007271909
-tags: [ #worldofwarcraft #statistics ]
+tags: #worldofwarcraft #statistics
 primary source: https://wow.gamepedia.com/Attributes#Agility
 
 ---

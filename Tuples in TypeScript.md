@@ -1,7 +1,7 @@
 ---
 
 id: 202007221122
-tags: [ #typescript #javascript #programming ]
+tags: #typescript #javascript #programming
 source: https://www.typescriptlang.org/docs/handbook/basic-types.html#tuple
 
 ---

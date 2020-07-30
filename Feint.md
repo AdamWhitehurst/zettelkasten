@@ -14,6 +14,6 @@ Performs an evasive maneuver, reducing AoE effect attacks by 40% for 5 sec.
 ---
 
 id: 20200725240
-tags: [ #worldofwarcraft #rogue #ability ]
+tags: #worldofwarcraft #rogue #ability
 
 ---

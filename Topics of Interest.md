@@ -1,7 +1,7 @@
 ---
 
 id: 202007241057
-tags: [ #learning ]
+tags: #learning
 
 ---
 

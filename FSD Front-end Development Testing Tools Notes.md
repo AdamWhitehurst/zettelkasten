@@ -30,7 +30,7 @@ Testing Frameworks implement one or more of these parts. For instance, [[Jest]] 
 ---
 
 id: 202007280958
-tags: [ #javascript #programming  ]
+tags: #javascript #programming 
 primary source: https://ibm.percipio.com/courses/7d1d6b7b-0d1b-4037-9408-75682ebb70c2/videos/bf2ef21c-dc1b-40d4-916c-bf79fbba4c77
 
 ---
