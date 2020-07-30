@@ -1,7 +1,8 @@
 ---
 
 id: 202007262059
-tags: #worldofwarcraft
+tags:
+ - #worldofwarcraft
 primary source: https://wow.gamepedia.com/Ogmot%27s_Dream_Journal
 
 ---
@@ -10,7 +11,8 @@ primary source: https://wow.gamepedia.com/Ogmot%27s_Dream_Journal
 
 Previously known as "Ogmot the Steadfast," is an ogre of the [[Twilight's Hammer]].w
 
-> ### Ogmot's Dream Journal
+>
+ - ### Ogmot's Dream Journal
 > 
 > ---
 > Ogmot was just puny boy fightin at da war camp when da Masters first blessed me wit da visions.

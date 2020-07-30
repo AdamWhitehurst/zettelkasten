@@ -1,7 +1,9 @@
 ---
 
 id: 202007251051
-tags: #society #racism
+tags:
+ - #society
+ - #racism
 primary source:
 
 ---

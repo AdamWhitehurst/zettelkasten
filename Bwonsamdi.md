@@ -1,7 +1,8 @@
 ---
 
 id: 202007251548
-tags: #worldofwarcraft
+tags:
+ - #worldofwarcraft
 primary source: https://wow.gamepedia.com/Bwonsamdi
 
 ---

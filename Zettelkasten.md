@@ -18,5 +18,6 @@ Method
 ---
 
 id: 202007212010
-tags: #zettelkasten
+tags:
+ - #zettelkasten
 

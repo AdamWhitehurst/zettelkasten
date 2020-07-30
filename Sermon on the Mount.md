@@ -1,7 +1,9 @@
 ---
 
 id: 202007241100
-tags: [ #bible #10commandments]
+tags: [
+ - #bible
+ - #10commandments]
 source: https://en.wikipedia.org/wiki/Sermon_on_the_Mount
 
 ---

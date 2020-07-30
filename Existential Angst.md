@@ -1,7 +1,9 @@
 ---
 
 id: 202007271559
-tags: #existentialism #philosophy
+tags:
+ - #existentialism
+ - #philosophy
 primary source: https://www.quora.com/What-is-the-meaning-of-existential-angst
 
 ---

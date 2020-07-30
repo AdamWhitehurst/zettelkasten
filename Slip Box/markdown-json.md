@@ -10,5 +10,8 @@
 ---
 
 id: 202007300958
-tags: #javascript #programming #markdown
+tags:
+ - #javascript
+ - #programming
+ - #markdown
 primary source: https://github.com/klaytonfaria/markdown-json#readme

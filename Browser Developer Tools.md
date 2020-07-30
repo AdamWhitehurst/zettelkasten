@@ -69,7 +69,10 @@ View, create, import, edit all stylesheets for the page.
 ---
 
 id: 202007281016
-tags: #programming #frontend #webdev
+tags:
+ - #programming
+ - #frontend
+ - #webdev
 primary source: https://developer.mozilla.org/en-US/docs/Tools
 
 ---

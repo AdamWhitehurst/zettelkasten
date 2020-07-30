@@ -1,7 +1,10 @@
 ---
 
 id: 202007271124
-tags: [ #worldofwarcraft #alliance #rogue]
+tags: [
+ - #worldofwarcraft
+ - #alliance
+ - #rogue]
 primary source: in game
 
 ---

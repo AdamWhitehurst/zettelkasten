@@ -1,7 +1,8 @@
 ---
 
 id: 202007230738
-tags: #poetry
+tags:
+ - #poetry
 source: https://en.wikipedia.org/wiki/The_Second_Coming_(poem)
 
 ---

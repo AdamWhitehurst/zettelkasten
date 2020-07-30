@@ -1,7 +1,9 @@
 ---
 
 id: 202007231247
-tags: [ #zettelkasten #organization]
+tags: [
+ - #zettelkasten
+ - #organization]
 source: 
 
 ---

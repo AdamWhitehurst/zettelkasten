@@ -1,7 +1,9 @@
 ---
 
 id: 202007241730
-tags: #worldofwarcraft #ruingaming
+tags:
+ - #worldofwarcraft
+ - #ruingaming
 source: 
 
 ---

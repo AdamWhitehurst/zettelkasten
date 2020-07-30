@@ -1,7 +1,9 @@
 ---
 
 id: 202007251830
-tags: #worldofwarcraft #terranempire
+tags:
+ - #worldofwarcraft
+ - #terranempire
 source: https://www.twitch.tv/terranempiretv
 
 ---

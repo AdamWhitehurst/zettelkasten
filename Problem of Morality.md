@@ -1,7 +1,11 @@
 ---
 
 id: 202007220705
-tags: #mapsofmeaning #jordanpeterson #sociology #psychology
+tags:
+ - #mapsofmeaning
+ - #jordanpeterson
+ - #sociology
+ - #psychology
 
 ---
 

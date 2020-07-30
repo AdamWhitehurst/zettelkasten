@@ -13,6 +13,9 @@ A quick kick that interrupts spellcasting and prevents any spell in that school 
 ---
 
 id: 20200725223
-tags: #worldofwarcraft #rogue #ability
+tags:
+ - #worldofwarcraft
+ - #rogue
+ - #ability
 
 ---

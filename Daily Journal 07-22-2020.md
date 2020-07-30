@@ -1,7 +1,9 @@
 ---
 
 id: 202007220711
-tags: #journal #daily
+tags:
+ - #journal
+ - #daily
 
 ---
 

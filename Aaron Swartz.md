@@ -1,11 +1,3 @@
----
-
-id: 202007240840
-tags: #programming #markdown #progammer
-source: https://en.wikipedia.org/wiki/Aaron_Swartz
-
----
-
 # Aaron Swartz
 *November 8, 1986 – January 11, 2013*
 An American computer programmer. Involved in the development of [[RSS]] web feed format, [[Markdown]], the [[Creative Commons]] organization, the website framework web.py, and was a co-founder of the social news site [[Reddit]].
@@ -17,3 +9,13 @@ http://reddit.com
 
 ## References
 
+---
+
+id: 202007240840
+tags:
+ - #programming
+ - #markdown
+ - #progammer
+source: https://en.wikipedia.org/wiki/Aaron_Swartz
+
+---

@@ -1,7 +1,9 @@
 ---
 
 id: 202007251030
-tags: #markdown #formatting
+tags:
+ - #markdown
+ - #formatting
 source: https://github.github.com/gfm/
 
 ---

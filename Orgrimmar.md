@@ -1,7 +1,9 @@
 ---
 
 id: 202007251505
-tags: #worldofwarcraft #horde
+tags:
+ - #worldofwarcraft
+ - #horde
 primary source: https://wow.gamepedia.com/Thrall
 
 ---

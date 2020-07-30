@@ -1,7 +1,10 @@
 ---
 
 id: 202007242108
-tags: #rust #minecraft  #llvm
+tags:
+ - #rust
+ - #minecraft 
+ - #llvm
 source: https://github.com/SuperTails/langcraft
 
 ---

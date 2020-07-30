@@ -1,7 +1,9 @@
 ---
 
 id: 202007271340
-tags: #worldofwarcraft #lore
+tags:
+ - #worldofwarcraft
+ - #lore
 primary source:
 
 ---

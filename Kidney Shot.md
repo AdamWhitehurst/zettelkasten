@@ -15,6 +15,9 @@ Finishing move that stuns the target for ==Pc sec==. Lasts longer per combo poin
 ---
 
 id: 20200725236
-tags: #worldofwarcraft #rogue #ability
+tags:
+ - #worldofwarcraft
+ - #rogue
+ - #ability
 
 ---

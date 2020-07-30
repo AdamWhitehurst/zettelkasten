@@ -1,7 +1,11 @@
 ---
 
 id: 202007241026
-tags: #worldofwarcraft #reading #book #lore
+tags:
+ - #worldofwarcraft
+ - #reading
+ - #book
+ - #lore
 
 ---
 

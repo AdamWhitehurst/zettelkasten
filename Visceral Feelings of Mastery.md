@@ -14,4 +14,7 @@ https://youtu.be/G42RJ4mKj1k
 
 ---
 id: 202007300652
-tags: #joerogan #craft #pleasure
+tags:
+ - #joerogan
+ - #craft
+ - #pleasure

@@ -1,7 +1,9 @@
 ---
 
 id: 202007271602
-tags: #existentialism #philosophy
+tags:
+ - #existentialism
+ - #philosophy
 primary source:
 
 ---

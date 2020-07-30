@@ -14,6 +14,9 @@ Throws a distraction, attracting the attention of all nearby monsters for 10 sec
 ---
 
 id: 20200725238
-tags: #worldofwarcraft #rogue #ability
+tags:
+ - #worldofwarcraft
+ - #rogue
+ - #ability
 
 ---

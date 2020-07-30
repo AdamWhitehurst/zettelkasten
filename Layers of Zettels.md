@@ -1,7 +1,8 @@
 ---
 
 id: 202007231215
-tags: #zettelkasten
+tags:
+ - #zettelkasten
 source: https://zettelkasten.de/posts/three-layers-structure-zettelkasten/
 
 ---
@@ -35,7 +36,9 @@ It is useful to mark these notes with a special double-hashtag, like `##programm
 Source:
 >My structure note on human movement is a perfect example of it. First, I wrote a lot about training. The training structure note linked to strength training, endurance training, sprint training, strongman training, mobility training, and more. But after a while a couple of topics didn’t fit into this space. What about physical work like wood chopping or the whole space of non-movement (like chronic sitting)? The topic broadened and I found a new umbrella: Human Movement. This structure note just keeps on floating on top. It is like the tip of an iceberg. No matter how much water freezes and is added to its body, the top stays on top.
 
->Another type of top-level structure notes are the one I design in this manner right away. I worked a lot on the topic of self-worth from various perspectives (even from the perspective of cardinal sins; the perspective is broad!). The structure note is tagged with a special tag: ##self-worth. If I search for #self-worth (note the single hash!) I get all the notes that deal with this concept but with a double hash I go directly where the money is in my archive: The top-level structure note. 
+>Another type of top-level structure notes are the one I design in this manner right away. I worked a lot on the topic of self-worth from various perspectives (even from the perspective of cardinal sins; the perspective is broad!). The structure note is tagged with a special tag:
+ - ##self-worth. If I search for
+ - #self-worth (note the single hash!) I get all the notes that deal with this concept but with a double hash I go directly where the money is in my archive: The top-level structure note. 
 
 ## Note on Folders
 Folders should not be used in zettelkasten as this is a method of avoiding structure within your system, and it encapsulates ideas apart from one another, limiting the interdisciplinary connection that a zettelkasten is meant to produce.

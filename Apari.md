@@ -1,7 +1,8 @@
 ---
 
 id: 202007251516
-tags: #worldofwarcraft
+tags:
+ - #worldofwarcraft
 primary source: https://wow.gamepedia.com/Apari
 
 ---

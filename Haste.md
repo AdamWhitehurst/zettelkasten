@@ -8,7 +8,9 @@ Affects the rate at which melee and ranged auto-attacks are dealt, the cast time
 ---
 
 id: 202007271912
-tags: #worldofwarcraft #statistics 
+tags:
+ - #worldofwarcraft
+ - #statistics 
 primary source: https://wow.gamepedia.com/Attributes#Haste
 
 ---

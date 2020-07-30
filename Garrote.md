@@ -15,6 +15,9 @@ Garrote the enemy, causing ==(108% AttackPower)== Bleed damage over 18s
 ---
 
 id: 20200725222
-tags: #worldofwarcraft #rogue #ability
+tags:
+ - #worldofwarcraft
+ - #rogue
+ - #ability
 
 ---

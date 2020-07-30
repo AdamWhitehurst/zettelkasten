@@ -1,7 +1,10 @@
 ---
 
 id: 202007251513
-tags: [ #worldofwarcraft #horde #shaman]
+tags: [
+ - #worldofwarcraft
+ - #horde
+ - #shaman]
 primary source: https://wow.gamepedia.com/Yukha
 
 ---

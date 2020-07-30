@@ -16,6 +16,9 @@ Comes from [[Scots]] and northern England dilest *quhynge* (these varieties of [
 ---
 
 id: 202007290738
-tags: #word #definition #etymology 
+tags:
+ - #word
+ - #definition
+ - #etymology 
 
 ---

@@ -1,7 +1,10 @@
 ---
 
 id: YYYYMMDDHHMM
-tags: #etymology #language #history
+tags:
+ - #etymology
+ - #language
+ - #history
 source: https://en.wikipedia.org/wiki/Latin
 
 ---

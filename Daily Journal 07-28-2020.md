@@ -60,7 +60,9 @@ Exercise routine thoughts
 ---
 
 id: 202007280821
-tags: #journal #daily
+tags:
+ - #journal
+ - #daily
 previous entry: [[Daily Journal 07-27-2020]]
 
 ---

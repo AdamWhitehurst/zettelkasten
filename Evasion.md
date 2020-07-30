@@ -13,6 +13,9 @@ Increases your dodge chance by 100% for 10 sec.
 ---
 
 id: 20200725233
-tags: #worldofwarcraft #rogue #ability
+tags:
+ - #worldofwarcraft
+ - #rogue
+ - #ability
 
 ---

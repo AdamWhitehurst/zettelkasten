@@ -1,7 +1,11 @@
 ---
 
 id: 202007252159
-tags: #worldofwarcraft #method #sexual #misconduct
+tags:
+ - #worldofwarcraft
+ - #method
+ - #sexual
+ - #misconduct
 primary source: https://dotesports.com/streaming/news/method-releases-josh-following-sexual-misconduct-allegation-involving-a-teenager
 
 ---

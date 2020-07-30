@@ -1,7 +1,9 @@
 ---
 
 id: 202007231523
-tags: #physiology #nervoussystem
+tags:
+ - #physiology
+ - #nervoussystem
 source: https://en.wikipedia.org/wiki/Emotion
 
 ---

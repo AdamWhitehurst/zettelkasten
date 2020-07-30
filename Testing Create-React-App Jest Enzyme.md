@@ -91,7 +91,10 @@ Jest Cheatsheet: https://devhints.io/jest
 ---
 
 id: 202007281156
-tags: #javascript #webdev #programming
+tags:
+ - #javascript
+ - #webdev
+ - #programming
 primary source:
 
 ---

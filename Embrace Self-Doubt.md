@@ -26,7 +26,9 @@ https://www.entrepreneur.com/article/345326
 ---
 
 id: 202007291020
-tags: #character #psychology
+tags:
+ - #character
+ - #psychology
 primary source:
 
 

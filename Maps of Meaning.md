@@ -1,7 +1,10 @@
 ---
 
 id: 202007240924
-tags: #jordanpeterson #mapsofmeaning #reading
+tags:
+ - #jordanpeterson
+ - #mapsofmeaning
+ - #reading
 
 ---
 # Maps of Meaning

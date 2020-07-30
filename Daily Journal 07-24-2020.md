@@ -1,7 +1,9 @@
 ---
 
 id: 202007240743
-tags: #journal #daily
+tags:
+ - #journal
+ - #daily
 previous entry: [[Daily Journal 07-23-2020]]
 
 ---

@@ -55,7 +55,9 @@ I also want to look into markdown parsing techniques.
 ---
 
 id: YYYYMMDDHHMM
-tags: #journal #daily
+tags:
+ - #journal
+ - #daily
 previous entry: [[Daily Journal 07-28-2020]]
 
 ---

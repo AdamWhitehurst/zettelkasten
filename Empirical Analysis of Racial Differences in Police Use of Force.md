@@ -1,7 +1,12 @@
 ---
 
 id: 202007261349
-tags: #unitedstates #politics #police #racism #discrimination
+tags:
+ - #unitedstates
+ - #politics
+ - #police
+ - #racism
+ - #discrimination
 primary source:
 
 ---

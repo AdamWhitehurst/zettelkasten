@@ -15,5 +15,10 @@ His podcast, [[The Joe Rogan Experience]], is the most popular podcast on the in
 ---
 
 id: 202007291541
-tags: #podcast #comedy #society #culture #science
+tags:
+ - #podcast
+ - #comedy
+ - #society
+ - #culture
+ - #science
 primary source: https://www.youtube.com/channel/UCzQUP1qoWDoEbmsQxvdjxgQ

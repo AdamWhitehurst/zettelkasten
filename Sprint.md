@@ -14,6 +14,9 @@ Increases your movement speed by 70% for 8 sec. Usable while stealthed.
 ---
 
 id: 20200725235
-tags: #worldofwarcraft #rogue #ability
+tags:
+ - #worldofwarcraft
+ - #rogue
+ - #ability
 
 ---

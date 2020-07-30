@@ -1,7 +1,9 @@
 ---
 
 id: 2020072306727
-tags: #word #definition
+tags:
+ - #word
+ - #definition
 
 ---
 

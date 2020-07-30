@@ -1,7 +1,8 @@
 ---
 
 id: 202007232013
-tags: #zettelkasten
+tags:
+ - #zettelkasten
 source: Mukul Khanna YouTube
 
 ---
@@ -45,7 +46,8 @@ source: Mukul Khanna YouTube
 ## Get Started and Make It a Habit
  - Don't worry about the details, just start and correct as you go. You will learn what the optimal process is only by practicing it.
 
- ## Turning Notes into Zettels
+
+ - ## Turning Notes into Zettels
 1. Attach links and tags to notes
 1. Weed out poor notes by comparing to older notes in connected zettels
 

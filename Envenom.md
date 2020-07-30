@@ -17,6 +17,9 @@ Finishing move that drives your poisoned blades in deep, dealing instant [[Natur
 ---
 
 id: 20200725237
-tags: #worldofwarcraft #rogue #ability
+tags:
+ - #worldofwarcraft
+ - #rogue
+ - #ability
 
 ---

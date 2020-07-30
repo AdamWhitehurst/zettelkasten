@@ -6,13 +6,19 @@ A lookahead or a lookbehind does not "consume" any characters on the string.
 ## Example
 Turn:
 ```
-tags: #programming #markdown #regex
+tags:
+ - #programming
+ - #markdown
+ - #regex
 ```
 Into:
 ```
 tags: 
+ -
  - #programming
+ -
  - #markdown
+ -
  - #regex
 ```
 
@@ -25,5 +31,7 @@ tags:
 ---
 
 id: 202007301016
-tags: #programming #regex
+tags:
+ - #programming
+ - #regex
 primary source: https://www.rexegg.com/regex-lookarounds.html

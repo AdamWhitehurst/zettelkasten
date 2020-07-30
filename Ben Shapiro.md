@@ -1,7 +1,9 @@
 ---
 
 id: 202007261326
-tags: #politics #talkshow
+tags:
+ - #politics
+ - #talkshow
 primary source:
 
 ---

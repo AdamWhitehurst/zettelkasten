@@ -15,6 +15,9 @@ From the last name of [[Franz Anton Mesmer]], who treated patients with a force 
 ---
 
 id: 20200728951
-tags: #word #definition #etymology 
+tags:
+ - #word
+ - #definition
+ - #etymology 
 
 ---

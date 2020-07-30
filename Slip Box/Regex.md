@@ -11,5 +11,9 @@
 ---
 
 id: 202007301015
-tags: #markdown #parsing #regex #programming
+tags:
+ - #markdown
+ - #parsing
+ - #regex
+ - #programming
 primary source:

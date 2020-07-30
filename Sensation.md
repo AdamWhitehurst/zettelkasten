@@ -1,7 +1,8 @@
 ---
 
 id: 202007231514
-tags: #nervoussystem
+tags:
+ - #nervoussystem
 source: https://en.wikipedia.org/wiki/Sense
 
 ---

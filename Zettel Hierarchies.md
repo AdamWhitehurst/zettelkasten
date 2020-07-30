@@ -1,7 +1,9 @@
 ---
 
 id: 202007231330
-tags: #zettelkasten #organization
+tags:
+ - #zettelkasten
+ - #organization
 source: https://zettelkasten.de/posts/understanding-hierarchy-translating-folgezettel/
 
 ---

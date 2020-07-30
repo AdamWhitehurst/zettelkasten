@@ -1,7 +1,10 @@
 ---
 
 id: 202007231011
-tags: #javascript #typescript #programming
+tags:
+ - #javascript
+ - #typescript
+ - #programming
 source: https://basarat.gitbook.io/typescript/type-system/generics
 
 ---

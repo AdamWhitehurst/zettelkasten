@@ -1,7 +1,8 @@
 ---
 
 id: 202007241730
-tags: #worldofwarcraft
+tags:
+ - #worldofwarcraft
 source: https://www.youtube.com/watch?v=zNy1cffBz30
 
 ---

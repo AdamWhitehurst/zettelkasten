@@ -42,5 +42,7 @@
 ---
 
 id: YYYYMMDDHHMM
-tags: #journal #daily
+tags:
+ - #journal
+ - #daily
 previous entry: [[]]

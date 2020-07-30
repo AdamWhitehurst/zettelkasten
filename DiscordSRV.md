@@ -1,7 +1,11 @@
 ---
 
 id: 202007271152
-tags: #minecraft #spigot #plugin #server
+tags:
+ - #minecraft
+ - #spigot
+ - #plugin
+ - #server
 primary source: https://github.com/DiscordSRV/DiscordSRV/wiki/Installation
 
 ---

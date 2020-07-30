@@ -1,7 +1,9 @@
 ---
 
 id: 202007251315
-tags: #jordanpeterson #mapsofmeaning
+tags:
+ - #jordanpeterson
+ - #mapsofmeaning
 source: [[Maps of Meaning]]
 
 ---

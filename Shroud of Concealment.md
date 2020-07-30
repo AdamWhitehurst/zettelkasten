@@ -14,6 +14,9 @@ Extend a cloak the shrouds party and raid members within 30 yards in shadows, pr
 ---
 
 id: 20200725247
-tags: #worldofwarcraft #rogue #ability
+tags:
+ - #worldofwarcraft
+ - #rogue
+ - #ability
 
 ---

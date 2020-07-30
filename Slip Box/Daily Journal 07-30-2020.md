@@ -56,5 +56,7 @@ Surprisingly accurate today. Keep at it.
 ---
 
 id: 202007300706
-tags: #journal #daily
+tags:
+ - #journal
+ - #daily
 previous entry: [[Daily Journal 07-29-2020]]

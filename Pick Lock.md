@@ -12,6 +12,9 @@ Allows opening of locked chests and doos that require a skill level of up to 100
 ---
 
 id: 20200725232
-tags: #worldofwarcraft #rogue #ability
+tags:
+ - #worldofwarcraft
+ - #rogue
+ - #ability
 
 ---

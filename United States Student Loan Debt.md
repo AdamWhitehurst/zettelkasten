@@ -1,7 +1,10 @@
 ---
 
 id: 202007250754
-tags: #unitedstates #government #economics
+tags:
+ - #unitedstates
+ - #government
+ - #economics
 source:
 
 ---

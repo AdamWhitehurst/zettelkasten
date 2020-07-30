@@ -15,7 +15,9 @@ Exceptions:
 ---
 
 id: 202007271829
-tags: #worldofwarcraft #statistics
+tags:
+ - #worldofwarcraft
+ - #statistics
 primary source: https://wow.gamepedia.com/Attributes#Crit
 
 ---

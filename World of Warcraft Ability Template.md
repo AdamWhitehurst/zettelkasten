@@ -57,6 +57,8 @@ https://wow.gamepedia.com/Resource
 ---
 
 id: 202007280840
-tags: #worldofwarcraft #ability
+tags:
+ - #worldofwarcraft
+ - #ability
 
 ---

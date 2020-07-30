@@ -1,7 +1,10 @@
 ---
 
 id: 202007221332
-tags: #javascript #typescript #programming
+tags:
+ - #javascript
+ - #typescript
+ - #programming
 source: https://www.typescriptlang.org/index.html
 
 ---

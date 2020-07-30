@@ -1,7 +1,10 @@
 ---
 
 id: 202007241038
-tags: #georgeorwell #socialism #reading
+tags:
+ - #georgeorwell
+ - #socialism
+ - #reading
 
 ---
 

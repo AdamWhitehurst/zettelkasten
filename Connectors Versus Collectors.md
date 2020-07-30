@@ -17,5 +17,7 @@ https://youtu.be/VFRp6QS8z8w?t=794
 ---
 
 id: 202007291319
-tags: #zettelkasten #organization
+tags:
+ - #zettelkasten
+ - #organization
 primary source: Curtis McHale

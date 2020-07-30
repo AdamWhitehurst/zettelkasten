@@ -1,7 +1,11 @@
 ---
 
 id: 202007220657
-tags: #datascience #programming #statistics #todo
+tags:
+ - #datascience
+ - #programming
+ - #statistics
+ - #todo
 
 ---
 
@@ -11,7 +15,8 @@ Take fields inside markdown files like
 
 ```
 id: 202007220657
-tags: #zettelkasten
+tags:
+ - #zettelkasten
 daily_journal_entry: true
 
 ```

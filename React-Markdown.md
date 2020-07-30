@@ -1,7 +1,10 @@
 ---
 
 id: 202007240852
-tags: #programming #markdown #react
+tags:
+ - #programming
+ - #markdown
+ - #react
 source: https://github.com/rexxars/react-markdown
 
 ---

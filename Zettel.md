@@ -1,7 +1,8 @@
 ---
 
 id: 202007212021
-tags: #zettelkasten
+tags:
+ - #zettelkasten
 source: https://trms.me/some-thoughts-on-how-to-keep-a-zettelkasten/
 
 ---

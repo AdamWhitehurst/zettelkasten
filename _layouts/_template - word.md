@@ -14,4 +14,7 @@
 ---
 
 id: YYYYMMDDHHMM
-tags: #word #definition #etymology 
+tags:
+ - #word
+ - #definition
+ - #etymology 

@@ -16,4 +16,7 @@ From [[French]] adjective *évanescent*, from [[Latin]] *ēvānēscēns*, presen
 ---
 
 id: 202007300727
-tags: #word #definition #etymology 
+tags:
+ - #word
+ - #definition
+ - #etymology 

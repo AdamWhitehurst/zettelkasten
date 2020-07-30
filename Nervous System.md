@@ -1,7 +1,10 @@
 ---
 
 id: 202007231530
-tags: #nervoussystem #neuroscience #physiology
+tags:
+ - #nervoussystem
+ - #neuroscience
+ - #physiology
 source: https://en.wikipedia.org/wiki/Nervous_system
 
 ---

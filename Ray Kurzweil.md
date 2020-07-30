@@ -14,5 +14,9 @@ His academic contributions include work in [[Optical Character Recognition]], [[
 ---
 
 id: 202007291530
-tags: #inventor #futurist #ai #singularity
+tags:
+ - #inventor
+ - #futurist
+ - #ai
+ - #singularity
 primary source: https://en.wikipedia.org/wiki/Ray_Kurzweil

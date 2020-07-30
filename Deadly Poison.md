@@ -6,6 +6,9 @@ Coats your weapons with a Lethal Poison that lasts for 1 hour. Each strike has a
 ---
 
 id: 20200725251
-tags: #worldofwarcraft #rogue #ability
+tags:
+ - #worldofwarcraft
+ - #rogue
+ - #ability
 
 ---

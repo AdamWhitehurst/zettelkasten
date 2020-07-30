@@ -14,6 +14,9 @@ From Late [[Latin]] adjective *pējōrātus*, Latin verb *pējōrāre* from earl
 ---
 
 id: 202007290745
-tags: #word #definition #etymology 
+tags:
+ - #word
+ - #definition
+ - #etymology 
 
 ---

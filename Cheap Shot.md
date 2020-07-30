@@ -14,6 +14,9 @@ Stuns the target for 4 sec.
 ---
 
 id: 202007252000
-tags: #worldofwarcraft #rogue #ability
+tags:
+ - #worldofwarcraft
+ - #rogue
+ - #ability
 
 ---

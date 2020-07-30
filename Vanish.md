@@ -13,6 +13,9 @@ Allows you to vanish from sight, entering stealth while in combat. For the first
 ---
 
 id: 20200725241
-tags: #worldofwarcraft #rogue #ability
+tags:
+ - #worldofwarcraft
+ - #rogue
+ - #ability
 
 ---

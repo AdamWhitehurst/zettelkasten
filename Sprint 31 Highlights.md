@@ -11,5 +11,7 @@ https://ibm-3t0i.slack.com/archives/GTDKAHR6C/p1596063399000400
 ---
 
 id: 202007291559
-tags: #rubik #team
+tags:
+ - #rubik
+ - #team
 primary source:
